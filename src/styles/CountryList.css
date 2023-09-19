@@ -1,0 +1,14 @@
+/* CountryList.css */
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-Radius: 5px;
+  cursor: pointer;
+}

@@ -21,7 +21,7 @@ html {
 body {
   font-family: var(--text);
 
-  background-color: #fff;
+  background-color: #f0eeee;
   max-width: 100vw;
   height: 100vh;
 }
