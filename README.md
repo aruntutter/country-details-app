@@ -14,8 +14,8 @@
 
 ## Links
 
-- Solution URL: [GitHub Repository]()
-- Live Demo: [Live Demo URL]()
+- Solution URL: [GitHub Repository](https://github.com/aruntutter/country-details-app)
+- Live Demo: [Live Demo URL](https://animated-bonbon-4b6d03.netlify.app/)
 
 ## Description
 
@@ -27,7 +27,7 @@ React Country Detail App is a web application that allows users to search for an
 
 ## Demo
 
-Explore the live demo: [React Country Detail App Demo]()
+Explore the live demo: [React Country Detail App Demo](https://animated-bonbon-4b6d03.netlify.app/)
 
 ## Features
 
@@ -45,7 +45,7 @@ Explore the live demo: [React Country Detail App Demo]()
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/react-country-detail-app.git`
+1. Clone the repository: `git clone https://github.com/aruntutter/country-details-app`
 2. Install dependencies: `npm install`
 3. Run the development server: `npm start`
 4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
