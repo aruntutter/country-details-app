@@ -23,7 +23,7 @@ React Country Detail App is a web application that allows users to search for an
 
 ## Screenshot
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](./src/assets/images/Screenshot.png)
 
 ## Demo
 
