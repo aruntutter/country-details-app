@@ -27,7 +27,7 @@ React Country Detail App is a web application that allows users to search for an
 
 ## Demo
 
-Explore the live demo: [React Country Detail App Demo](https://animated-bonbon-4b6d03.netlify.app/)
+Explore the live demo: [Here](https://animated-bonbon-4b6d03.netlify.app/)
 
 ## Features
 
